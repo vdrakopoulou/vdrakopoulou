@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="python_banner.png" alt="Dr. Veliota Drakopoulou | Finance & AI Research" width="100%">
+  <img src="Banner 2.png" alt="Dr. Veliota Drakopoulou | Finance & AI Research" width="100%">
 </p>
 
 # Dr. Veliota Drakopoulou
