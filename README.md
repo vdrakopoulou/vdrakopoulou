@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="python_banner.png" alt="Dr. Veliota Drakopoulou | Finance & AI Research" width="100%">
+</p>
+
 # Dr. Veliota Drakopoulou
 
 **Finance & AI Researcher | Natural Language Processing | Algorithmic Trading | ESG Analytics | Portfolio Optimization**
