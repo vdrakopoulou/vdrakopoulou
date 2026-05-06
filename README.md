@@ -1,46 +1,55 @@
 # Dr. Veliota Drakopoulou
 
-**Finance & AI Researcher | Algorithmic Trading | ESG Analytics | Portfolio Optimization**
+**Dr. Veliota Drakopoulou** is a Finance & AI Researcher specializing in algorithmic trading, ESG analytics, and portfolio optimization.
 
-I develop transparent, Python-based research pipelines that integrate financial econometrics, machine learning, and text analytics to study market behavior in the UAE and global markets. My work focuses on advancing reproducible finance research using free and synthetic datasets, modern NLP models, and scalable portfolio analytics.
-
----
-
-## Research Areas
-- **NLP for ESG and Financial Disclosures**  
-  FinBERT, AraBERT, sentiment modeling, credibility scoring, event windows.
-
-- **Algorithmic Trading & Market Microstructure**  
-  Liquidity shocks, micro-volatility bursts, high-frequency signals, synthetic order-flow data.
-
-- **Portfolio Construction & Optimization**  
-  CAPM, factor models, CVXPY optimization, CVaR, DRO, technical indicators, deep learning frameworks.
-
-- **UAE Market Research (ADX & DFM)**  
-  Retail flows, ESG events, macro-finance interactions, sectoral heterogeneity, Python-based pipelines.
+Welcome to the official GitHub of **Dr. Veliota Drakopoulou** (GitHub username: `vdrakopoulou`).
 
 ---
 
+## 🔬 Research & Expertise
+
+Dr. Veliota Drakopoulou works at the intersection of:
+
+* Financial Econometrics
+* Machine Learning & AI in Finance
+* Natural Language Processing (NLP) for ESG
+* Algorithmic Trading & Market Microstructure
+* Portfolio Optimization (CVaR, CVXPY, factor models)
 
 ---
 
-## Code & Repositories
-This GitHub contains reproducible examples, synthetic datasets, Jupyter notebooks, and full research pipelines, including:
+## 📂 Projects
 
-- `src/` modules for data collection, feature engineering, and model estimation  
-- `notebooks/` for exploratory analysis, event windows, and model diagnostics  
-- `data/` structure for raw, interim, and processed datasets  
-- `results/` with tables, figures, and replication files  
+This GitHub profile contains research and implementations by **Dr. Veliota Drakopoulou**, including:
 
-Each repository includes a **config.yaml**, unit tests, and Markdown documentation for transparency.
+* ESG text analytics pipelines
+* Financial sentiment models (FinBERT)
+* Algorithmic trading strategies
+* Portfolio optimization frameworks
+
+---
+
+## 🌐 Official Links
+
+* GitHub: https://github.com/vdrakopoulou
+* LinkedIn: https://www.linkedin.com/in/veliota-drakopoulou 
+* Google Scholar:  https://scholar.google.com/citations?user=twJ64mUAAAAJ&hl=en
+
+---
+
+## 📌 Identity Verification
+
+This GitHub account (`vdrakopoulou`) belongs to **Dr. Veliota Drakopoulou**.
+
+All repositories and research contributions here are authored or maintained by **Dr. Veliota Drakopoulou**.
+
 
 ---
 
 ## Contact
 **Email:** vdrakopoulou@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/veliota-drakopoulou  
-**Google Scholar:** https://scholar.google.com/citations?user=twJ64mUAAAAJ&hl=en
+
 
 ---
 
-If you use any of the code or ideas here, please cite or acknowledge appropriately.
+
