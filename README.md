@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Banner 2.png" alt="Dr. Veliota Drakopoulou | Finance & AI Research" width="100%">
-</p>
-
 # Dr. Veliota Drakopoulou
 
 **Finance & AI Researcher | Natural Language Processing | Algorithmic Trading | ESG Analytics | Portfolio Optimization**
@@ -25,18 +21,6 @@ I develop transparent, Python-based research pipelines that integrate financial 
 
 ---
 
-## Current Projects
-- **NLP of ESG Disclosures (ADX & DFM)**  
-  Event-study pipeline using FinBERT/AraBERT sentiment + abnormal retail flows.
-
-- **Deep Learning for Portfolio Allocation**  
-  LSTM, transformers, stochastic optimization, risk-sensitive rebalancing.
-
-- **Algorithmic Trading Pressure and Liquidity Bursts**  
-  Synthetic limit-order-book simulation and microstructure metrics.
-
-- **Python-Assisted Finance Education**  
-  ChatGPT-guided coding labs, reproducible teaching modules, ADX-focused student projects.
 
 ---
 
