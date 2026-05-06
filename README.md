@@ -1,6 +1,6 @@
 # Dr. Veliota Drakopoulou
 
-**Finance & AI Researcher | Natural Language Processing | Algorithmic Trading | ESG Analytics | Portfolio Optimization**
+**Finance & AI Researcher | Algorithmic Trading | ESG Analytics | Portfolio Optimization**
 
 I develop transparent, Python-based research pipelines that integrate financial econometrics, machine learning, and text analytics to study market behavior in the UAE and global markets. My work focuses on advancing reproducible finance research using free and synthetic datasets, modern NLP models, and scalable portfolio analytics.
 
